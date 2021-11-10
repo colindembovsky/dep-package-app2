@@ -1,2 +1,2 @@
-# dep-package-app1
-App that consumes dep package
+# dep-package-app2
+Second app that consumes dep package
