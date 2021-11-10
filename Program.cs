@@ -10,8 +10,8 @@ namespace dep_package_app1
             Console.WriteLine("Hello World!");
 
             var calc = new Class1();
-            var res = calc.Add(1, 2);
-            Console.WriteLine($"Result of 1 + 2 is {res}");
+            var res = calc.Add(10, 12);
+            Console.WriteLine($"Result of 10 + 12 is {res}");
         }
     }
 }
